@@ -62,3 +62,6 @@ The server listens on port 8000 by default and exposes the FastMCP streamable-HT
 - `mcp_server/requirements.txt` — runtime dependencies.
 - `agent_bricks/system_prompt.md` — Agent Bricks system prompt.
 - `agent_bricks/demo_transcript.md` — three natural-language test cases and expected tool flow.
+
+Databricks App URLs
+- MCP Server images: mcp_server_1, mcp_server_2 
